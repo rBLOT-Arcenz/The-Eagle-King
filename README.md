@@ -23,3 +23,5 @@ Lors de ces 2 modes, vous pourrez :
     -Appuyer sur R pour ordonner aux aigles de se mettre au sol. F leur fera reprendre leur vol vers leur destination, ou vers vous, selon ce qu'ils faisaient avant
     -Appuyer sur Contrôle pour stopper la camera, permettant de viser plus facilement
     -Appuyer sur Echap pour retourner au menu
+    
+Pour des raisons de fichiers trop lourds, le code source se trouve dans les releases.
